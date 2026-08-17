@@ -1,7 +1,5 @@
 ## Semantic FAQ Routing Service — Technical Challenge Submission
 
-For maximum visibility, place this section immediately after the repository title in `README.md`, followed by the existing detailed setup and documentation links. A concise repository description can be:
-
 ```text
 Production-oriented FastAPI service for semantic FAQ retrieval with pgvector, confidence-based routing, guarded OpenAI fallback, deterministic tests, Docker, and CI.
 
